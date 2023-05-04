@@ -22,3 +22,5 @@ npm start
 
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/82875984/235946183-eaa710bd-bacc-48d4-bab2-1a95bcd2b95b.png">
 
+## What is the Purpose of React Router?
+React Router is a JavaScript framework that lets us handle client and server-side routing in React applications. It enables the creation of single-page web or mobile apps that allow navigating without refreshing the page.
