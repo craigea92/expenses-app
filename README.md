@@ -24,3 +24,6 @@ npm start
 
 ## What is the Purpose of React Router?
 React Router is a JavaScript framework that lets us handle client and server-side routing in React applications. It enables the creation of single-page web or mobile apps that allow navigating without refreshing the page.
+
+## What are Higher-Order Components?
+A higher-order component (HOC) is an advanced technique in React reusing component logic. HOCs are not part of the React API, per se. They are a pattern that emerges from React's compositional nature. Concretely, a higher-order component is a function that takes a component and returns a new component.
