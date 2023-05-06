@@ -2,6 +2,12 @@
 
 ## Project Description
 
+I have developed a user-friendly Expenses App using React. The app features reusable components for building an elegant user interface, and state management hooks to manage the app's data. Users can easily add new expenses, including details such as the expense name, date, and amount. 
+
+During the development process, I encountered some challenges when passing state from child to parent components. However, with the help of the comprehensive documentation and available resources, I was able to resolve these issues by passing the state as a function from child to parent.
+
+In the future, I plan to enhance the app's functionality by implementing additional features such as editing existing expenses, deleting expenses and a search function to quickly locate specific expenses.
+
 ## Tech Stack
 
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
