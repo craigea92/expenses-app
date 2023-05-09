@@ -20,6 +20,7 @@ In the future, I plan to enhance the app's functionality by implementing additio
 
 ```
 git clone https://github.com/craigea92/expenses-app.git
+cd expenses-app
 npm install
 npm start
 ```
